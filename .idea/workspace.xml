@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1826ef6-326c-4f26-88f0-77458359c94a" name="变更" comment="流感好可怕">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0321/demo01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0321/demo02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0321/demo03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0321/getHttp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0321/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0321/jsonHttp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0321/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nodejs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nodejs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0321/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/0321/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-3.1.0.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +113,7 @@
       <workItem from="1679300660672" duration="1685000" />
       <workItem from="1679302378907" duration="2532000" />
       <workItem from="1679365240220" duration="689000" />
-      <workItem from="1679445229766" duration="1876000" />
+      <workItem from="1679445229766" duration="2164000" />
     </task>
     <task id="LOCAL-00001" summary="shabi pjj">
       <created>1679300805133</created>
@@ -159,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679446665797</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="流感好可怕">
+      <created>1679447111944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679447111944</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
