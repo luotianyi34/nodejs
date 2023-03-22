@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1826ef6-326c-4f26-88f0-77458359c94a" name="变更" comment="流感好可怕">
-      <change beforePath="$PROJECT_DIR$/0321/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/0321/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-3.1.0.js" beforeDir="false" />
+    <list default="true" id="f1826ef6-326c-4f26-88f0-77458359c94a" name="变更" comment="浅浅的修改一下">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "12.22.6",
     "javascript.nodejs.core.library.typings.version": "12.20.55",
-    "last_opened_file_path": "C:/Users/df/IdeaProjects/nodejs",
+    "last_opened_file_path": "C:/Users/df/IdeaProjects/nodejs/0322",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,32 +73,33 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\df\IdeaProjects\nodejs\0322" />
       <recent name="C:\Users\df\IdeaProjects\nodejs" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript 调试.login.html">
-    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodejs/0321/login.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript 调试.login.html (1)">
+    <configuration name="login.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodejs/0322/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="demo05.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0320/demo05.js" working-dir="$PROJECT_DIR$/0320">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodejs/0321/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="getHttp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0321/getHttp.js" working-dir="$PROJECT_DIR$/0321">
       <method v="2" />
     </configuration>
-    <configuration name="http.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0321/http.js" working-dir="$PROJECT_DIR$/0321">
+    <configuration name="jsonHttp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0321/jsonHttp.js" working-dir="$PROJECT_DIR$/0321">
       <method v="2" />
     </configuration>
-    <configuration name="jsonHttp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0321/jsonHttp.js" working-dir="$PROJECT_DIR$/0321">
+    <configuration name="postHttp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0322/postHttp.js" working-dir="$PROJECT_DIR$/0322">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 调试.login.html (1)" />
+        <item itemvalue="Node.js.postHttp.js" />
         <item itemvalue="JavaScript 调试.login.html" />
         <item itemvalue="Node.js.getHttp.js" />
         <item itemvalue="Node.js.jsonHttp.js" />
-        <item itemvalue="Node.js.http.js" />
-        <item itemvalue="Node.js.demo05.js" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +114,8 @@
       <workItem from="1679300660672" duration="1685000" />
       <workItem from="1679302378907" duration="2532000" />
       <workItem from="1679365240220" duration="689000" />
-      <workItem from="1679445229766" duration="2164000" />
+      <workItem from="1679445229766" duration="3249000" />
+      <workItem from="1679453520424" duration="1380000" />
     </task>
     <task id="LOCAL-00001" summary="shabi pjj">
       <created>1679300805133</created>
@@ -157,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679447111944</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="浅浅的修改一下">
+      <created>1679447417722</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679447417722</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +188,8 @@
     <MESSAGE value="我觉得还可以哦" />
     <MESSAGE value="庞俊杰浑水摸鱼20分钟，纪念一下" />
     <MESSAGE value="流感好可怕" />
-    <option name="LAST_COMMIT_MESSAGE" value="流感好可怕" />
+    <MESSAGE value="浅浅的修改一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="浅浅的修改一下" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

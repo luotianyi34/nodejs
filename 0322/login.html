@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<body>
+<div>
+    <div>
+        <label for="username">用户名</label>
+        <input type="text" id="username">
+    </div>
+    <div>
+        <label for="password">密码</label>
+        <input type="password" id="password">
+    </div>
+    <div>
+        <button type="button" id="btn">登录</button>
+    </div>
+</div>
+</body>
+<script>
+    $(function () {
+        $("#btn").click(function () {
+            let username = $("#username").val();
+            if(!username){
+                alert("用户名不能为空")
+                return;
+            }
+            let password = $("#password").val();
+            if(!password){
+                alert("密码不能为空")
+                return;
+            }
+            $.ajax({
+                url:"http://localhost:9876",
+                data:{
+                    username,password
+                },
+                method:"post",
+                dataType:"json",
+                success(res){
+                    if(res.code === 200){
+                        alert("登录成功")
+                    }else{
+                        alert("登录失败")
+                    }
+                }
+            });
+        });
+    })
+</script>
+</html>
