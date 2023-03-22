@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1826ef6-326c-4f26-88f0-77458359c94a" name="变更" comment="我的庞俊杰只上了20分钟的课，太棒了" />
+    <list default="true" id="f1826ef6-326c-4f26-88f0-77458359c94a" name="变更" comment="我的庞俊杰只上了20分钟的课，太棒了">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,18 +75,21 @@
       <recent name="C:\Users\df\IdeaProjects\nodejs\0322" />
       <recent name="C:\Users\df\IdeaProjects\nodejs" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\df\IdeaProjects\nodejs\0322" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript 调试.login.html (1)">
+  <component name="RunManager" selected="Node.js.file02.js">
     <configuration name="login.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodejs/0322/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodejs/0321/login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="getHttp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0321/getHttp.js" working-dir="$PROJECT_DIR$/0321">
+    <configuration name="file01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0322/file01.js" working-dir="$PROJECT_DIR$/0322">
       <method v="2" />
     </configuration>
-    <configuration name="jsonHttp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0321/jsonHttp.js" working-dir="$PROJECT_DIR$/0321">
+    <configuration name="file02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0322/file02.js" working-dir="$PROJECT_DIR$/0322">
       <method v="2" />
     </configuration>
     <configuration name="postHttp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/0322/postHttp.js" working-dir="$PROJECT_DIR$/0322">
@@ -92,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.file02.js" />
+        <item itemvalue="Node.js.file01.js" />
         <item itemvalue="JavaScript 调试.login.html (1)" />
         <item itemvalue="Node.js.postHttp.js" />
         <item itemvalue="JavaScript 调试.login.html" />
-        <item itemvalue="Node.js.getHttp.js" />
-        <item itemvalue="Node.js.jsonHttp.js" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +117,7 @@
       <workItem from="1679302378907" duration="2532000" />
       <workItem from="1679365240220" duration="689000" />
       <workItem from="1679445229766" duration="3249000" />
-      <workItem from="1679453520424" duration="1847000" />
+      <workItem from="1679453520424" duration="3633000" />
     </task>
     <task id="LOCAL-00001" summary="shabi pjj">
       <created>1679300805133</created>
@@ -170,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679454976830</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="我的庞俊杰只上了20分钟的课，太棒了">
+      <created>1679455394470</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679455394470</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
