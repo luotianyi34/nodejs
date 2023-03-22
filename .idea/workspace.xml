@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1826ef6-326c-4f26-88f0-77458359c94a" name="变更" comment="浅浅的修改一下">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/utils.js" afterDir="false" />
-    </list>
+    <list default="true" id="f1826ef6-326c-4f26-88f0-77458359c94a" name="变更" comment="我的庞俊杰只上了20分钟的课，太棒了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +112,7 @@
       <workItem from="1679302378907" duration="2532000" />
       <workItem from="1679365240220" duration="689000" />
       <workItem from="1679445229766" duration="3249000" />
-      <workItem from="1679453520424" duration="1380000" />
+      <workItem from="1679453520424" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="shabi pjj">
       <created>1679300805133</created>
@@ -166,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679447417722</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="我的庞俊杰只上了20分钟的课，太棒了">
+      <created>1679454976830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679454976830</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +193,8 @@
     <MESSAGE value="庞俊杰浑水摸鱼20分钟，纪念一下" />
     <MESSAGE value="流感好可怕" />
     <MESSAGE value="浅浅的修改一下" />
-    <option name="LAST_COMMIT_MESSAGE" value="浅浅的修改一下" />
+    <MESSAGE value="我的庞俊杰只上了20分钟的课，太棒了" />
+    <option name="LAST_COMMIT_MESSAGE" value="我的庞俊杰只上了20分钟的课，太棒了" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
