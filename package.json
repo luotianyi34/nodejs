@@ -2,6 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "dependencies": {
-    "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "mysql": "^2.18.1"
   }
 }
