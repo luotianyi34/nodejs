@@ -9,3 +9,5 @@ const connection = mysql.createConnection({
 });
 /*打开连接*/
 connection.connect();
+
+module.exports = connection

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/0322/mysql01.js" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/0322/mysql02.js" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/0322/mysql03.js" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>

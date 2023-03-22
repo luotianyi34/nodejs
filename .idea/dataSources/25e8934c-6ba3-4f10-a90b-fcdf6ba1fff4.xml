@@ -3,14 +3,56 @@
   <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.45">
     <root id="1">
       <DefaultCasing>lower/lower</DefaultCasing>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
       <ServerVersion>8.0.32</ServerVersion>
     </root>
     <schema id="2" parent="1" name="information_schema"/>
-    <schema id="3" parent="1" name="mysql"/>
+    <schema id="3" parent="1" name="mysql">
+      <Grants>user|||mysql.session|localhost|SELECT|G</Grants>
+    </schema>
     <schema id="4" parent="1" name="performance_schema"/>
     <schema id="5" parent="1" name="sys"/>
     <schema id="6" parent="1" name="xuhai_wtr">
       <Current>1</Current>
     </schema>
+    <table id="7" parent="6" name="userinfo">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8mb4_general_ci</CollationName>
+    </table>
+    <column id="8" parent="7" name="id">
+      <AutoIncrement>16</AutoIncrement>
+      <DasType>int|0s</DasType>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+    </column>
+    <column id="9" parent="7" name="username">
+      <DasType>varchar(255)|0s</DasType>
+      <Position>2</Position>
+    </column>
+    <column id="10" parent="7" name="password">
+      <DasType>varchar(255)|0s</DasType>
+      <Position>3</Position>
+    </column>
+    <column id="11" parent="7" name="nickname">
+      <DasType>varchar(255)|0s</DasType>
+      <Position>4</Position>
+    </column>
+    <column id="12" parent="7" name="status">
+      <Comment>1表示可用2表示禁用</Comment>
+      <DasType>int|0s</DasType>
+      <DefaultExpression>1</DefaultExpression>
+      <Position>5</Position>
+    </column>
+    <index id="13" parent="7" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="14" parent="7" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
   </database-model>
 </dataSource>

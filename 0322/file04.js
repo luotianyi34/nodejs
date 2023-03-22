@@ -1,13 +1,13 @@
-const fs = require("fs")
+const fs = require("fs");
 /*打开流*/
-const stream = fs.createReadStream("show.json","utf-8");
+const stream = fs.createReadStream("login.html","utf-8");
 /*监听data事件*/
-stream.on("data",function (c){
+stream.on("data",function (c) {
     console.log(c)
 });
-stream.on("end",function (){
+stream.on("end",function () {
     console.log("内容读取完毕")
 })
-stream.on("error",function (){
+stream.on("error",function (e) {
     console.error(e)
 })
